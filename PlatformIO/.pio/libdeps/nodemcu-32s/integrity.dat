@@ -1,0 +1,7 @@
+MQTT
+Arduinojson
+Adafruit NeoPixel
+Adafruit Unified Sensor
+PubSubClient
+Adafruit BME280 Library
+closedcube/ClosedCube HDC1080 @ ^1.3.2
