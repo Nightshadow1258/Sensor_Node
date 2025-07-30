@@ -8,3 +8,9 @@ I split the MCU Board into its own small form factor PCB with connectors on the 
 - BQ29700 (Battery Protection IC)
 - SHT40 (Temp & Humidity Sensor)
 - USB (charging & data transfer)
+
+# Archive Notice
+
+This repository has been archived and is no longer maintained.
+It contains historical versions of the Sensor Node project (V1.00, V2.00, etc.)
+for reference and backup purposes.
