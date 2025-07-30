@@ -1,0 +1,3 @@
+# Sensor Node Version 1.00
+
+old files seems to be missing parts sadly...
