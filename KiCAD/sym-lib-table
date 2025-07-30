@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sensor_Nodes")(type "Legacy")(uri "${KIPRJMOD}/Sensor_Nodes.lib")(options "")(descr ""))
+)
